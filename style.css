@@ -168,9 +168,9 @@ button{
         border-radius: 20px;
         color: blueviolet;
         font-weight: bold;
-        padding-top: 30px;
-        padding-left: 30px;
-        font-size: 40px;
+        padding-top: 40px;
+        padding-left: 20px;
+        font-size: 30px;
         position: relative;
         top: 30px;
         left: 2%;
@@ -186,7 +186,7 @@ button{
 {
     background-color: white;
     height: 100px;
-    width: 430px;
+    width: 350px;
     border-radius: 20px;
     /* margin-left: 200px; */
     position: absolute;
@@ -197,16 +197,17 @@ button{
     color: blue;
     /* font-style: italic; */
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
+    font-size: 25px;
     font-weight: bold;
     font-family: "Sofia", sans-serif;
 }
 .option-container
 {
     height: 330px;
-    width: 450px;
+    width: 350px;
     background-color: white;
-    margin-top: 170px;
+    margin-top: 160px;
     margin-left: 10px;
     border-radius: 10px;
 }
@@ -234,7 +235,7 @@ button{
 {
     position: absolute;
     top: 20px;
-    left: 100px;
+    left: 75px;
     color: blue;
     font-weight: bold;
 }
@@ -242,26 +243,26 @@ button{
 {
     position: absolute;
     top: 22px;
-    left: 300px; 
+    left: 220px; 
 }
 .container1
 {
     background-color: white;
-    height: 350px;
-    width: 430px;
+    height: 320px;
+    width: 350px;
     border-radius: 20px;
     /* margin-left: 200px; */
     position: absolute;
-    top: 730px;
+    top: 720px;
     left: 2%;  
 }
 .good
 {
     height: 70px;
-    width: 400px;
+    width: 350px;
     background-color: rgba(142, 0, 250, 0.772);
     margin-left: 2%;
-    margin-top: 400px;
+    margin-top: 360px;
     border-radius: 10px;
 }
 .good1
@@ -269,7 +270,7 @@ button{
     color: rgb(255, 217, 217);
     padding-top: 10px;
     padding-left: 10px;
-    font-size: 30px;
+    font-size: 25px;
     font-family: "Sofia", sans-serif;
 }
 button{
@@ -292,8 +293,8 @@ button{
     width: 150px;
     background-color: rgba(142, 0, 250, 0.772);
     position: absolute;
-    top: 1180px;
-    left: 50%;
+    top: 1150px;
+    left: 45%;
     border-radius: 10px;
 }
 .para{
